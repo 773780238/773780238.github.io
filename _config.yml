@@ -3,7 +3,7 @@ title: Zihui Blog
 SEOTitle: 刘子珲的博客
 header-img: img/post-bg-desk.jpg
 email: liuzihui7737@gmail.com
-description: "Dazhuan are the people over the others."
+description: "Dazhuan are those people who overcome the others."
 keyword: "Zihui Liu, Zihui Liu Blog, 刘子珲, ZihuiLiu"
 url: "http://773780238.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -12,18 +12,13 @@ github_repo: "https://github.com/773780238/773780238.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: ""
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/zihui_pic.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+
 
 
 
